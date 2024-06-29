@@ -1,4 +1,4 @@
-module golicense
+module github.com/abhigyan-mohanta/golicense
 
 go 1.22.4
 
