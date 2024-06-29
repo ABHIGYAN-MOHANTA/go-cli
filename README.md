@@ -5,6 +5,8 @@
 
 `golicense` is a command-line tool written in Go that makes it easy to add license files to your local projects. It allows you to select from popular open-source licenses and write them directly to your project directory. This tool is designed to streamline the process of managing licenses, making your projects compliant and ready for distribution.
 
+<img width="829" alt="Screenshot 2024-06-29 at 12 22 09 PM" src="https://github.com/ABHIGYAN-MOHANTA/golicense/assets/110360901/3b21b4aa-3334-4f30-8b1d-1ac00bdf4ba7">
+
 ## Features
 
 - **Simple Command-Line Interface**: Add licenses with a single command.
