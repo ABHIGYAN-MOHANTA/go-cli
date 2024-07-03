@@ -19,8 +19,8 @@
 To install `golicense`, you need to have Go installed. Run the following command:
 
 ```bash
-go build
-go install
+go get github.com/abhigyan-mohanta/golicense
+go install github.com/abhigyan-mohanta/golicense
 ```
 
 ## Usage
